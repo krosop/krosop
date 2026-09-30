@@ -15,9 +15,9 @@
 - Exploring APIs, automation and clean code
 - Always learning something new
 
-## 📊 Stats
+## 📊 Profile views
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=krosop&show_icons=true&hide_border=true&count_private=true)
+![Profile views](https://komarev.com/ghpvc/?username=krosop&style=flat-square&color=blueviolet)
 
 ---
 
