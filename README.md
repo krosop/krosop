@@ -1,24 +1,38 @@
+<div align="center">
+
 # Hi, I'm DHIA 👋
 
 **Developer • building things with code**
 
-## 🧰 Stack
+[![Profile views](https://komarev.com/ghpvc/?username=krosop&style=flat-square&color=6C63FF&label=profile%20views)](https://github.com/krosop)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-## 🛠️ What I do
-
-- Building web apps with JavaScript & TypeScript
-- Exploring APIs, automation and clean code
-- Always learning something new
-
-## 📊 Profile views
-
-![Profile views](https://komarev.com/ghpvc/?username=krosop&style=flat-square&color=blueviolet)
+</div>
 
 ---
 
-*@krosop on GitHub*
+## About
+
+- 🌱 Learning in public — building small projects to sharpen my skills
+- 🧩 Focused on APIs, automation and clean, readable code
+- 🔭 Open to collaborating on web projects
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,node,react,vite,git&theme=dark" alt="Tech stack" />
+
+</div>
+
+## Currently
+
+- Building a portfolio of real, documented projects
+- Sharpening my JavaScript & TypeScript fundamentals
+
+---
+
+<div align="center">
+
+Thanks for stopping by! &nbsp;·&nbsp; [github.com/krosop](https://github.com/krosop)
+
+</div>
